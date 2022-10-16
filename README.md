@@ -4,4 +4,3 @@ Find out more about me here - https://kabrap.github.io/personal-site
 
 📫 You can reach me by messaging me on [LinkedIn](https://www.linkedin.com/in/kabrap/) or emailing me at [kabrap@pm.me](mailto:kabrap@pm.me).
 
-P.S. I adapted this website from https://github.com/mldangelo/personal-site.
