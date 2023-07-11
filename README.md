@@ -1,4 +1,4 @@
-👋 Hi, I’m Pramey Kabra and I am a senior in Computer Science and Data Science at Purdue University - West Lafayette. I am pursuing concentrations in Machine Intelligence and Database & Information Systems along in with a minor in Economics.
+👋 Hi! My name is Pramey Kabra, and I am a senior in Computer Science and Data Science at Purdue University. My concentrations are Machine Intelligence and Database & Information Systems.
 
 Find out more about me here - [https://prameykabra.me/](https://prameykabra.me/)
 
